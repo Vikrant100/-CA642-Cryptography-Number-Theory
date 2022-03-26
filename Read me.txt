@@ -1,0 +1,4 @@
+Feal folder = eclipse project folder
+Feal.java = cryptanalysis code
+Report.pdf = Assignment report
+Known.txt = file provided in question with 200 plaintext and ciphertext
